@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+🔭 Currently building collaborative AI workspace called [Team-GPT](https://team-gpt.com/)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kachar&theme=vue)](https://git.io/streak-stats)
 
-🔭 I’m currently working on [Team-GPT](https://team-gpt.com/)
-
-![kachar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachar&theme=vue&show_icons=true)
+![kachar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachar&theme=vue&show_icons=true&card_width=495)
 
 <!--
 **kachar/kachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
