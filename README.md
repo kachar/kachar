@@ -4,6 +4,8 @@
 
 🔭 I’m currently working on [Team-GPT](https://team-gpt.com/)
 
+![kachar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachar&theme=vue&show_icons=true)
+
 <!--
 **kachar/kachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
