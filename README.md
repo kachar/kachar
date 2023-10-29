@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kachar&theme=vue)](https://git.io/streak-stats)
 
+🔭 I’m currently working on [Team-GPT](https://team-gpt.com/)
+
 <!--
 **kachar/kachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
