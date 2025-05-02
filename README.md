@@ -2,7 +2,7 @@
 
 🔭 Currently building collaborative AI workspace called [Team-GPT](https://team-gpt.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kachar&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kachar&theme=vue)](https://git.io/streak-stats)
 
 ![kachar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachar&theme=vue&show_icons=true&card_width=495)
 
