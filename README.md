@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Currently building collaborative AI workspace called [Team-GPT](https://team-gpt.com/)
+🔭 Currently building collaborative AI workspace called [Juma (ex Team-GPT)](https://juma.ai/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kachar&theme=vue)](https://git.io/streak-stats)
 
